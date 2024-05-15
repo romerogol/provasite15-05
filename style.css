@@ -1,0 +1,61 @@
+.banner
+{
+    background-image: url(imagem\ segunda\ guerra.webp);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+}
+
+.bannerText
+{
+    font-size: 50px;
+    text-align: center ;
+    margin-left: 600px;
+    color: #000000;
+}
+
+
+header
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: grey;
+}
+
+.navLista
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.navLista p
+{
+    padding: 1rem;
+    font-size: 26px;
+}
+
+ul
+{
+    list-style-type: none;
+    display: flex;
+}
+li
+{
+    font-size: 22px;
+   text-align: center;
+   padding: 18px;
+}
+
+footer
+{
+   text-align: center;
+}
+
+hr
+{
+    width: 250px;
+}
+
